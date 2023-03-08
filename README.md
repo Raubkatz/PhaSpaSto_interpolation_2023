@@ -4,6 +4,7 @@ If your find any errors or issues, text me on researchgate https://www.researchg
 
 
 First, run generate population_2023.py
+
 Second, run genetic_algorithm_2023.py
 
 
