@@ -8,5 +8,6 @@ First, run generate population_2023.py
 Second, run genetic_algorithm_2023.py
 
 
-The parameters etc. are explained in the programs, if you still got problems text me on researchgate 
+The parameters etc. are explained in the programs, if you still got problems text me on researchgate.
+
 If you use this interpolation or parts from it in a publication, then I'd be happy to be cited :)
